@@ -1,0 +1,1 @@
+# Dia 2 de mil - Lucas Motta - 12/12/2025 nome = Arazinha planeta = Marte dias_para_marte = 115 print(fOi {nome},) print(fHoje é o dia 2 de mil.) print(fDaqui a {dias_para_marte} dias eu tô em {planeta}.) print(Fumei menos hoje. Tô no caminho.) print(Te amo pra caralho <3)
